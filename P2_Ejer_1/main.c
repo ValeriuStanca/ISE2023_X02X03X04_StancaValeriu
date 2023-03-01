@@ -1,7 +1,7 @@
 /**
   ******************************************************************************
   * @file    Templates/Src/main.c 
-  * @author  MCD Application Team
+  * @author  Valeriu Petre Stanca
   * @brief   STM32F4xx HAL API Template project 
   *
   * @note    modified by ARM
